@@ -1,13 +1,15 @@
-<div align="center">
+<!-- <div align="center">
   <a href="https://kenndeclouv.me">
   <img height="150" src="https://files.catbox.moe/4s4vyh.png"  />
   <br>
   <img src="https://komarev.com/ghpvc/?username=KennDeClouv" alt="visitor count" />
     
   </a>
+</div> -->
+<div align="center">
+  <h1>IZYEYO</h1>
 </div>
 
-###
 
 ---
 
@@ -22,7 +24,7 @@
 
 ---
 
-<h3 align="center">🔗 Connect with me!</h3>
+<!-- <h3 align="center">🔗 Connect with me!</h3>
 
 <p align="center">
   <a href="https://instagram.com/kenndeclouv"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-CF4E92?style=flat&logo=instagram&logoColor=white"/></a>
@@ -101,7 +103,7 @@
 
 ###
 
----
+--- -->
 
 <h3 align="center">🎧 Music</h3>
 
